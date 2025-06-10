@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\Studying\PCP\PCP_Lab2\PCP_Lab2\bin\Debug\PCP_Lab2.exe.config
+C:\Users\Alex\Desktop\Studying\PCP\PCP_Lab2\PCP_Lab2\bin\Debug\PCP_Lab2.exe
+C:\Users\Alex\Desktop\Studying\PCP\PCP_Lab2\PCP_Lab2\bin\Debug\PCP_Lab2.pdb
+C:\Users\Alex\Desktop\Studying\PCP\PCP_Lab2\PCP_Lab2\obj\Debug\PCP_Lab2.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Studying\PCP\PCP_Lab2\PCP_Lab2\obj\Debug\PCP_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Studying\PCP\PCP_Lab2\PCP_Lab2\obj\Debug\PCP_Lab2.exe
+C:\Users\Alex\Desktop\Studying\PCP\PCP_Lab2\PCP_Lab2\obj\Debug\PCP_Lab2.pdb
+C:\Users\Alex\Desktop\Studying\PCP\PCP_Lab2\PCP_Lab2\obj\Debug\PCP_Lab2.exe.config
